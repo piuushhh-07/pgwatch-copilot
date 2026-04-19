@@ -27,7 +27,7 @@ The AI analyzes your **real-time database metrics** and responds with a diagnosi
 ### Main Chat Interface
 ![Chat UI](screenshots/chat.png)
 
-### API models
+### AI models
 ![Groq Response](screenshots/models.png)
 
 ### Health Report
